@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+
+<root available-locales="es_ES" default-locale="es_ES">
+	<dynamic-element name="run-fondo" type="text" index-type="keyword" index="0" instance-id="aolp">
+		<dynamic-content language-id="es_ES"><![CDATA[987654321]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="nemotecnico" type="text" index-type="keyword" index="0" instance-id="lism">
+		<dynamic-content language-id="es_ES"><![CDATA[AHORRO]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="titulo-vision-general" type="text" index-type="keyword" index="0" instance-id="srio">
+		<dynamic-content language-id="es_ES"><![CDATA[Visión general]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="imagen" type="image" index-type="keyword" index="0" instance-id="sugu">
+		<dynamic-content language-id="es_ES"></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="nombre-tarjeta" type="text" index-type="keyword" index="0" instance-id="phsv">
+		<dynamic-content language-id="es_ES"><![CDATA[Juan Pablo Cerda]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="cargo-tarjeta" type="text" index-type="keyword" index="0" instance-id="svhv">
+		<dynamic-content language-id="es_ES"><![CDATA[Gerente de Mesa de Distribución]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="empresa-tarjeta" type="text" index-type="keyword" index="0" instance-id="lkdr">
+		<dynamic-content language-id="es_ES"><![CDATA[Banchile Inversiones]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-comentario-experto" type="text" index-type="keyword" index="0" instance-id="jiob">
+		<dynamic-content language-id="es_ES"><![CDATA[Comentario del experto.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="comentario-experto" type="text_area" index-type="keyword" index="0" instance-id="tvnv">
+		<dynamic-content language-id="es_ES"><![CDATA[La estrategia este fondo consiste en invertir la totalidad de su cartera en instrumentos emitidos por el Banco Central. Esto le permite tener un desempeño estable y con un muy bajo riesgo. El fondo prácticamente no se vio afectado por las volatilidades de las tasas de interés, debido a que el fondo estuvo invertido muy en el corto plazo.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-objetivo-fondo" type="text" index-type="keyword" index="0" instance-id="ffey">
+		<dynamic-content language-id="es_ES"><![CDATA[Objetivo del Fondo.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="comentario-objetivo-fondo" type="text_area" index-type="keyword" index="0" instance-id="vjeg">
+		<dynamic-content language-id="es_ES"><![CDATA[Ofrecer una alternativa de inversión para aquellas personas naturales y jurídicas interesadas en realizar operaciones financieras de corto plazo en un fondo cuya cartera está compuesta por instrumentos de deuda emitidos por las principales instituciones que participan en el mercado de capital nacional.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-inversionistas" type="text" index-type="keyword" index="0" instance-id="raso">
+		<dynamic-content language-id="es_ES"><![CDATA[Inversionistas.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="comentario-inversionistas" type="text_area" index-type="keyword" index="0" instance-id="gasq">
+		<dynamic-content language-id="es_ES"><![CDATA[Dirigido a personas naturales y jurídicas interesadas en participar de un portafolio de inversiones en el corto plazo. El riesgo de éste, dependerá de los instrumentos en los que se invierta el fondo.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="titulo-evolucion-cuota" type="text" index-type="keyword" index="0" instance-id="dtvh">
+		<dynamic-content language-id="es_ES"><![CDATA[Evolución valor cuota]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="titulo-remuneracion" type="text" index-type="keyword" index="0" instance-id="jckq">
+		<dynamic-content language-id="es_ES"><![CDATA[Remuneración]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-montos-minimos" type="text" index-type="keyword" index="0" instance-id="nznh">
+		<dynamic-content language-id="es_ES"><![CDATA[Montos mínimos.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-montos-minimos" type="text_area" index-type="keyword" index="0" instance-id="rczy">
+		<dynamic-content language-id="es_ES"><![CDATA[Serie A: $ No tiene.-<br />
+Serie P: $ 5.000.000.000.-<br />
+Serie IT (Serie de uso exclusivo solo para Inversionistas Institucionales): $10.000.000.000.-]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-remuneracion" type="text" index-type="keyword" index="0" instance-id="zjhs">
+		<dynamic-content language-id="es_ES"><![CDATA[Remuneración]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-remuneracion" type="text_area" index-type="keyword" index="0" instance-id="qttf">
+		<dynamic-content language-id="es_ES"><![CDATA[Serie A: Hasta 1,50% anual (IVA incluido).<br />
+Serie P: Hasta 0,357% anual (IVA incluido).<br />
+Serie IT (Serie de uso exclusivo solo para Inversionistas Institucionales): Hasta 0,12% anual (IVA incluido).]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="titulo-gastos-riesgo" type="text" index-type="keyword" index="0" instance-id="umjb">
+		<dynamic-content language-id="es_ES"><![CDATA[Gastos y Riesgos]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-gastos" type="text" index-type="keyword" index="0" instance-id="nsni">
+		<dynamic-content language-id="es_ES"><![CDATA[Gastos]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-gastos" type="text_area" index-type="keyword" index="0" instance-id="clgj">
+		<dynamic-content language-id="es_ES"><![CDATA[Los demás gastos atribuibles al Fondo, tales como los gastos derivados con ocasión de la contratación de servicios externos, incluyendo los gastos derivados de la contratación de servicios de administración de cartera, servicios de auditoría, custodia, clasificaciones de riesgo, costos de intermediación, etc., ya sean directos o indirectos, serán de cargo de la Sociedad Administradora. No obstante lo anterior, los impuestos, retenciones, encajes u otro tipo de carga tributaria o cambiaria que conforme el marco legal vigente de la jurisdicción respectiva deba aplicarse a las inversiones, operaciones o ganancias del Fondo e indemnizaciones, incluidas aquellas de carácter extrajudicial que tenga por objeto precaver o poner término a litigios y costas, honorarios profesionales, gastos de orden judicial en que se incurra en la representación de los intereses del Fondo, serán de cargo del Fondo y se devengarán cuando estos sean generados, sin estar sujeto a límite alguno.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-riesgo" type="text" index-type="keyword" index="0" instance-id="rtre">
+		<dynamic-content language-id="es_ES"><![CDATA[Riesgo]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-riesgo" type="text_area" index-type="keyword" index="0" instance-id="hnma">
+		<dynamic-content language-id="es_ES"><![CDATA[Fondo clasificado como R1. La tolerancia al riesgo se determina en función de la volatilidad de la cuota en un periodo de los últimos 5 años. La volatilidad de R1 es menor que R7. La clasificación R1 no significa que esté exenta de riesgo. Este indicador se basa en datos históricos y puede que no represente el riesgo futuro del fondo. La categoría de riesgo no está garantizada y puede que varíe en el tiempo.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="titulo-rescates" type="text" index-type="keyword" index="0" instance-id="ksuy">
+		<dynamic-content language-id="es_ES"><![CDATA[Rescates]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-pago-rescate" type="text" index-type="keyword" index="0" instance-id="vwfx">
+		<dynamic-content language-id="es_ES"><![CDATA[Pago de rescate]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-pago-rescate" type="text_area" index-type="keyword" index="0" instance-id="sqnd">
+		<dynamic-content language-id="es_ES"><![CDATA[El pago de los rescates se efectuará dentro de un plazo no mayor de 1 día hábil bancario, contado desde la fecha de presentación de la solicitud pertinente o desde la fecha en que se dé curso al rescate, si se trata de un rescate programado.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-rescates-permitidos" type="text" index-type="keyword" index="0" instance-id="zsza">
+		<dynamic-content language-id="es_ES"><![CDATA[Rescates permitidos]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-rescates-permitidos" type="text_area" index-type="keyword" index="0" instance-id="smbe">
+		<dynamic-content language-id="es_ES"><![CDATA[Todos los que sean necesarios, todos los días hábiles del año, totales o parciales.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="archivos" type="document_library" index-type="keyword" index="0" instance-id="mohv">
+		<dynamic-element name="url_externa" index="0" instance-id="ggzh" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[http://www.banchileinversiones.cl/sist_banchile/pdf/fondos_mutuos/reg_inter/bchricaf.pdf]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="titulo-archivo" index="0" instance-id="byvl" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[Registro de Cliente]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="periodo" index="0" instance-id="qytl" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[05/01/2017]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element nam...

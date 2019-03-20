@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+
+<root available-locales="es_ES" default-locale="es_ES">
+	<dynamic-element name="run-fondo" type="text" index-type="keyword" index="0" instance-id="sttn">
+		<dynamic-content language-id="es_ES"><![CDATA[1-9]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="nemotecnico" type="text" index-type="keyword" index="0" instance-id="pmwa">
+		<dynamic-content language-id="es_ES"><![CDATA[ALIANZA]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="titulo-vision-general" type="text" index-type="keyword" index="0" instance-id="scpp">
+		<dynamic-content language-id="es_ES"><![CDATA[Vision general]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="imagen" type="image" index-type="keyword" index="0" instance-id="mvnr">
+		<dynamic-content language-id="es_ES"></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="nombre-tarjeta" type="text" index-type="keyword" index="0" instance-id="xkbk">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="cargo-tarjeta" type="text" index-type="keyword" index="0" instance-id="gbnt">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="empresa-tarjeta" type="text" index-type="keyword" index="0" instance-id="gisl">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-comentario-experto" type="text" index-type="keyword" index="0" instance-id="jlka">
+		<dynamic-content language-id="es_ES"><![CDATA[Comentario del experto.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="comentario-experto" type="text_area" index-type="keyword" index="0" instance-id="xhhk">
+		<dynamic-content language-id="es_ES"><![CDATA[Fondo prueba 1]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-objetivo-fondo" type="text" index-type="keyword" index="0" instance-id="frof">
+		<dynamic-content language-id="es_ES"><![CDATA[Objetivo del Fondo.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="comentario-objetivo-fondo" type="text_area" index-type="keyword" index="0" instance-id="glii">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-inversionistas" type="text" index-type="keyword" index="0" instance-id="mdsn">
+		<dynamic-content language-id="es_ES"><![CDATA[Inversionistas.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="comentario-inversionistas" type="text_area" index-type="keyword" index="0" instance-id="dysx">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="titulo-evolucion-cuota" type="text" index-type="keyword" index="0" instance-id="mdnb">
+		<dynamic-content language-id="es_ES"><![CDATA[Evolucion valor cuota]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="titulo-remuneracion" type="text" index-type="keyword" index="0" instance-id="bosk">
+		<dynamic-content language-id="es_ES"><![CDATA[Remuneracion]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-montos-minimos" type="text" index-type="keyword" index="0" instance-id="xnzq">
+		<dynamic-content language-id="es_ES"><![CDATA[Montos minimos.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-montos-minimos" type="text_area" index-type="keyword" index="0" instance-id="aphj">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-remuneracion" type="text" index-type="keyword" index="0" instance-id="mpyw">
+		<dynamic-content language-id="es_ES"><![CDATA[Remuneracion]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-remuneracion" type="text_area" index-type="keyword" index="0" instance-id="xuiv">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="titulo-gastos-riesgo" type="text" index-type="keyword" index="0" instance-id="dxkq">
+		<dynamic-content language-id="es_ES"><![CDATA[Gastos y Riesgos]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-gastos" type="text" index-type="keyword" index="0" instance-id="zzys">
+		<dynamic-content language-id="es_ES"><![CDATA[Gastos]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-gastos" type="text_area" index-type="keyword" index="0" instance-id="wbsw">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-riesgo" type="text" index-type="keyword" index="0" instance-id="xsve">
+		<dynamic-content language-id="es_ES"><![CDATA[Riesgo]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-riesgo" type="text_area" index-type="keyword" index="0" instance-id="jtim">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="titulo-rescates" type="text" index-type="keyword" index="0" instance-id="ltmi">
+		<dynamic-content language-id="es_ES"><![CDATA[Rescates]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-pago-rescate" type="text" index-type="keyword" index="0" instance-id="nlct">
+		<dynamic-content language-id="es_ES"><![CDATA[Pago de rescate]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-pago-rescate" type="text_area" index-type="keyword" index="0" instance-id="jcby">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-rescates-permitidos" type="text" index-type="keyword" index="0" instance-id="jmlv">
+		<dynamic-content language-id="es_ES"><![CDATA[Rescates permitidos]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-rescates-permitidos" type="text_area" index-type="keyword" index="0" instance-id="pbqe">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="archivos" type="document_library" index-type="keyword" index="0" instance-id="qqxp">
+		<dynamic-element name="url_externa" index="0" instance-id="wgus" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="titulo-archivo" index="0" instance-id="sflp" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[Folleto Informativo]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="periodo" index="0" instance-id="ezqy" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="es_ES"><![CDATA[/documents/143998/274314/Folleto_alianza.pdf/c55f9752-ef77-907a-e6b0-2aec7b4f75f0]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="archivos" type="document_library" index-type="keyword" index="1" instance-id="pvcs">
+		<dynamic-element name="url_externa" index="1" instance-id="lzvk" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="titulo-archivo" index="1" instance-id="qvpa" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[Reglamento Interno]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="periodo" index="1" instance-id="yerh" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="es_ES"><![CDATA[/documents/143998/274314/Reglamento_alianza.pdf/7bdacc38-52e5-03cf-9388-e04130f868be]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="subtitulo-comision" type="text" index-type="keyword" index="0" instance-id="veqw">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="descripcion-comision" type="text_box" index-type="keyword" index="0" instance-id="qltu">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="tablaTitulo" type="text" index-type="keyword" index="0" instance-id="sqnc">
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="mostrarTabla" type="boolean" index-type="keyword" index="0" instance-id="rhdd">
+		<dynamic-element name="titulosCabeceraTabla" index="0" instance-id="tbuu" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="fila" index="0" instance-id="pjxr" type="text" index-type="keyword">
+			<dynamic-element name="valorColumnaFilaTabla" index="0" instance-id="tkhs" type="text" index-type="keyword">
+				<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="es_ES"><![CDATA[NoValor]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="leyendaTabla" index="0" instance-id="bpkk" type="text" index-type="keyword">
+			<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="es_ES"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+</root>
